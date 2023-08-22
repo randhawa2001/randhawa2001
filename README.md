@@ -79,6 +79,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/randhawa2001/randhawa2001/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
