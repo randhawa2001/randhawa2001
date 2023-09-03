@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Hammad and I love to code in Python. 🐍<br>Python Developer at Technosol | Machine Learning | Python3 developer | AI Enthusiast</h2>
+<h2 align="left">Hi! My name is Hammad and I love to code in Python. 🐍<br> Machine Learning | Python3 developer | AI Enthusiast</h2>
 
 ###
 
